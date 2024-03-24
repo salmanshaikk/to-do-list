@@ -45,7 +45,7 @@ li.completed {
 
 .delete-btn {
     cursor: pointer;
-    color: rgb(52, 186, 159);
+    color: rgba(1, 7, 6, 0.847);
     border: none;
     background: none;
     font-size: 1em;
