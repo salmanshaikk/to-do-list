@@ -2,6 +2,8 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+
+    background-image:url("https://img.freepik.com/free-photo/armchair-green-living-room-with-copy-space_43614-910.jpg?w=826&t=st=1711623036~exp=1711623636~hmac=8639e0a729f37ee720feb959130bcfab0000b65c828731b170dcf245b9790015");
 }
 
 .container {
